@@ -1,4 +1,4 @@
-# Solid-Mechanics-and-Tensor-Algebra
+# Solid-Mechanics-and-Tensor-Algebra (In Development)
 Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 ## Solid Mechanics
