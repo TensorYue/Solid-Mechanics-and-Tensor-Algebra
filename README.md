@@ -32,4 +32,6 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 [3]  Yuan-Cheng Fung (1965), Foundations of Soild Mechanics
 
-[4]  Huang, K., Xue, M., & Lu, M. (2020), Tensor Analysis
+[4]  Stephen P. Timoshenko (1963), Theory of Elastic Stability
+
+[5]  Huang, K., Xue, M., & Lu, M. (2020), Tensor Analysis
