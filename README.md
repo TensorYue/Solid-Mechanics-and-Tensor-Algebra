@@ -1,7 +1,7 @@
 # Solid-Mechanics-and-Tensor-Algebra (In Development)
 Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
-## Solid Mechanics
+## Solid Mechanics (Linear)
 1  Governing Equations
 
 2.1  Displacement Method
@@ -17,6 +17,8 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 4.1  Torsion of Straight Bars with Uniform Cross Section
 
 4.2  Thin Plates
+
+## Solid Mechanics (General)
 
 ## Tensor Algebra
 
