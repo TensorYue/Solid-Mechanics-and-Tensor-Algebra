@@ -14,11 +14,15 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 3.2  Uniqueness of Solution
 
-4.1  Weak Form, Potential & Complementary Strain Energy (Pending)
+4.1  Strong & Weak Form
 
-4.2  Displacement Variation, Virtual Displacement, & Principle of Minimum Potential Energy (Pending)
+4.2  Potential & Complementary Strain Energy (Pending)
 
-4.3  Stress Variation, Virtual Stress, & Principle of Minimum Complementary Energy (Pending)
+4.3  Variational Principle (Pending)
+
+4.4  Displacement Variation, Virtual Displacement, & Principle of Minimum Potential Energy (Pending)
+
+4.5  Stress Variation, Virtual Stress, & Principle of Minimum Complementary Energy (Pending)
 
 5.1  Finite Difference Method (Pending)
 
