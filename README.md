@@ -14,9 +14,21 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 3.2  Uniqueness of Solution
 
-4.1  Torsion of Straight Bars with Uniform Cross Section
+4.1  Potential Energy & Complementary Energy (Pending)
 
-4.2  Thin Plates
+4.2  Displacement Variation, Virtual Displacement, & Principle of Minimum Potential Energy (Pending)
+
+4.3  Stress Variation, Virtual Stress, & Principle of Minimum Complementary Energy (Pending)
+
+5.1  Finite Difference Method (Pending)
+
+5.2  Finite Difference Method for Displacement (Pending)
+
+5.3  Finite Difference Method for Stress Function (Pending)
+
+6.1  Torsion of Straight Bars with Uniform Cross Section (Pending)
+
+6.2  Thin Plates (Pending)
 
 ## Solid Mechanics (General)
 
