@@ -38,9 +38,11 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 ## Tensor Algebra
 
-3.1  Polar Decomposition & Singular Value Decomposition
+3  Derivative of Tensor (Pending)
 
-3.2  Conjugate Gradient Method
+4.1  Polar Decomposition & Singular Value Decomposition
+
+4.2  Conjugate Gradient Method
 
 
 ## Reference
