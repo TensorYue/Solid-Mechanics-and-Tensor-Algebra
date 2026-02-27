@@ -14,7 +14,7 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 3.2  Uniqueness of Solution
 
-4.1  Variational Principle (Pending)
+4.1  Variational Principle
 
 4.2  Strong & Weak Form
 
