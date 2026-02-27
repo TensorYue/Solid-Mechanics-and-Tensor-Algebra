@@ -20,9 +20,9 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 4.3  Potential & Complementary Strain Energy (Pending)
 
-4.4  Displacement Variation, Virtual Displacement, & Principle of Minimum Potential Energy (Pending)
+4.4  Variational Displacement Method & Principle of Minimum Potential Energy (Pending)
 
-4.5  Stress Variation, Virtual Stress, & Principle of Minimum Complementary Energy (Pending)
+4.5  Variational Stress Method & Principle of Minimum Complementary Energy (Pending)
 
 5.1  Finite Difference Method (Pending)
 
@@ -30,9 +30,17 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 5.3  Finite Difference Method for Stress Function (Pending)
 
-6.1  Torsion of Straight Bars with Uniform Cross Section (Pending)
+6.1  Linear Theory of Torsion (Pending)
 
-6.2  Thin Plates (Pending)
+6.2  Finite Difference Method for Torsion (Pending)
+
+6.3  Variational Stress Method for Torsion (Pending)
+
+7.1  Linear Theory of Plate (Pending)
+
+7.2  Finite Difference Method for Plate (Pending)
+
+7.3  Variational Displacement Method for Plate (Pending)
 
 ## Solid Mechanics (General)
 
