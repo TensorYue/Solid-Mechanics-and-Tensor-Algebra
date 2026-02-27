@@ -14,11 +14,11 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 3.2  Uniqueness of Solution
 
-4.1  Strong & Weak Form
+4.1  Variational Principle (Pending)
 
-4.2  Potential & Complementary Strain Energy (Pending)
+4.2  Strong & Weak Form
 
-4.3  Variational Principle (Pending)
+4.3  Potential & Complementary Strain Energy (Pending)
 
 4.4  Displacement Variation, Virtual Displacement, & Principle of Minimum Potential Energy (Pending)
 
