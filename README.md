@@ -46,7 +46,7 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 ## Tensor Algebra
 
-3  Derivative of Tensor (Pending)
+3  Derivative of Tensor
 
 4.1  Polar Decomposition & Singular Value Decomposition
 
