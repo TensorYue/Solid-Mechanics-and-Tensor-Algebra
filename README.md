@@ -24,6 +24,8 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 4.5  Variational Stress Method & Principle of Minimum Complementary Energy (Pending)
 
+4.6  Mixed Variational Method & Hu-Washizu Energy Functional
+
 5.1  Finite Difference Method (Pending)
 
 5.2  Finite Difference Method for Displacement (Pending)
