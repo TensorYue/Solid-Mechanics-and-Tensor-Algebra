@@ -42,7 +42,7 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 7.3  Variational Displacement Method for Plate (Pending)
 
-## Solid Mechanics (General)
+## Solid Mechanics (Finite Deformation)
 
 ## Tensor Algebra
 
