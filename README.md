@@ -20,7 +20,9 @@ Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
 4.3  Potential & Complementary Strain Energy (Pending)
 
-4.4  Variational Displacement Method & Principle of Minimum Potential Energy (Pending)
+4.4  Hu-Washizu Principle & Hellinger-Reissner Principle
+
+4.5  Variational Displacement Method & Principle of Minimum Potential Energy (Pending)
 
 4.5  Variational Stress Method & Principle of Minimum Complementary Energy (Pending)
 
