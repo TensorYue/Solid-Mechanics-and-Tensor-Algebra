@@ -71,3 +71,5 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 [4]  Stephen P. Timoshenko (1963), Theory of Elastic Stability
 
 [5]  Huang, K., Xue, M., & Lu, M. (2020), Tensor Analysis
+
+[5]  Belytschko, T., Liu, W., Moran, B., Elkhodary, K. (2014) Nonlinear Finite Elements for Continua and Structures
