@@ -71,7 +71,7 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 3  Derivative of Tensor
 
-### Tensor Decomposition (Linear Algebra)
+### Tensor Decomposition (2nd Order)
 
 4.1  Polar Decomposition & Singular Value Decomposition
 
