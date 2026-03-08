@@ -6,7 +6,12 @@ The Solid Mechanics Section focuses on theoretical derivations and numerical app
 The Tensor Algebra Section provides the basic language required for the Solid Mechanics section, plus some fundamental decomposition of matrix (second order tensor) using the language of tensor .
 
 ## Solid Mechanics (Linear)
+
+### Fundamental Mechanics
+
 1  Governing Equations
+
+### Methods of Solution (Theoretical)
 
 2.1  Displacement Method
 
@@ -14,9 +19,13 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 2.2.2  Stress Function
 
+### Properties of Linear System
+
 3.1  Principle of Superposition
 
 3.2  Uniqueness of Solution
+
+### Variational Methods (Numerical)
 
 4.1  Variational Principle
 
@@ -32,6 +41,8 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 4.7  Mixed Variational Method (Pending)
 
+### Finite Difference Method (Numerical)
+
 5.1  Finite Difference Method (Pending)
 
 5.2  Finite Difference Method for Displacement (Pending)
@@ -44,6 +55,8 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 6.3  Variational Stress Method for Torsion (Pending)
 
+### Linear Theory of Element 
+
 7.1  Linear Theory of Plate (Pending)
 
 7.2  Finite Difference Method for Plate (Pending)
@@ -54,7 +67,11 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 ## Tensor Algebra
 
+### Tensor Calculus
+
 3  Derivative of Tensor
+
+### Tensor Decomposition (Linear Algebra)
 
 4.1  Polar Decomposition & Singular Value Decomposition
 
