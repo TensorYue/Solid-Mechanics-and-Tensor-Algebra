@@ -11,7 +11,7 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 1  Governing Equations
 
-### Methods of Solution (Theoretical)
+### Methods of Solution
 
 2.1  Displacement Method
 
@@ -25,21 +25,27 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 3.2  Uniqueness of Solution
 
-### Variational Methods (Numerical)
+### Variational Pinciple
 
 4.1  Variational Principle
 
-4.2  Strong & Weak Form
+4.2  Potential & Complementary Strain Energy
 
-4.3  Potential & Complementary Strain Energy (Pending)
+4.3  Principle of Virtural Work
 
-4.4  Variational Displacement Method & Principle of Minimum Potential Energy (Pending)
+4.4  Castigliano Theorem
 
-4.5  Variational Stress Method & Principle of Minimum Complementary Energy (Pending)
+### Variational Methods (Numerical)
 
-4.6  Hu-Washizu Principle & Hellinger-Reissner Principle (Pending)
+5.1  Weak Form (Pending)
 
-4.7  Mixed Variational Method (Pending)
+5.2  Variational Displacement Method & Principle of Minimum Potential Energy (Pending)
+
+5.3  Variational Stress Method & Principle of Minimum Complementary Energy (Pending)
+
+5.4  Hu-Washizu Principle & Hellinger-Reissner Principle (Pending)
+
+5.5  Mixed Variational Method (Pending)
 
 ### Finite Difference Method (Numerical)
 
