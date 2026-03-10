@@ -45,7 +45,7 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 5.3  Variational Stress Method & Principle of Minimum Complementary Energy (Pending)
 
-5.4  Hu-Washizu Principle & Hellinger-Reissner Principle (Pending)
+5.4  Hu-Washizu Functinoal & Hellinger-Reissner Functinoal (Pending)
 
 5.5  Mixed Variational Method (Pending)
 
