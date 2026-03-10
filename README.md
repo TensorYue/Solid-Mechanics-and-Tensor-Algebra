@@ -31,9 +31,9 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 4.2  Potential & Complementary Strain Energy
 
-4.3  Principle of Virtural Work
+4.3  Principle of Virtural Work & Castigliano's Theorem
 
-4.4  Castigliano Theorem
+4.4  Direct Stiffness Method & Exact Nodal Solution
 
 ### Variational Methods (Numerical)
 
