@@ -35,7 +35,7 @@ The Tensor Algebra Section provides the basic language required for the Solid Me
 
 4.4  Castigliano's Theorem (Pending)
 
-4.4  Direct Stiffness Method & Exact Nodal Solution (Pending)
+4.5  Direct Stiffness Method & Exact Nodal Solution (Pending)
 
 ### Variational Methods (Numerical)
 
