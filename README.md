@@ -5,7 +5,9 @@ The Solid Mechanics Section focuses on theoretical derivations and numerical app
 
 The Tensor Algebra Section provides the basic language required for the Solid Mechanics section, plus some fundamental decomposition of matrix (second order tensor) using the language of tensor.
 
-### Your feedback is invaluable, please feel free to contact me on Linkedin https://www.linkedin.com/in/chengyou-yue-832816263/ for any suggestions and comments.
+### Your feedback is invaluable, please feel free to contact me on Linkedin for any suggestions and comments.
+
+https://www.linkedin.com/in/chengyou-yue-832816263/ 
 
 ## Solid Mechanics (Linear)
 
