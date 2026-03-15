@@ -1,9 +1,9 @@
 # Solid-Mechanics-and-Tensor-Algebra
 Reviews and theoretical derivations for Solid Mechanics and Tensor Algebra
 
-The Solid Mechanics Section focuses on theoretical derivations and numerical applications and covers the basic knowledge needed to establish variational principles as the foundation of analytical mechanics and the finite element method.
+### The Solid Mechanics Section focuses on theoretical derivations and numerical applications and covers the basic knowledge needed to establish variational principles as the foundation of analytical mechanics and the finite element method.
 
-The Tensor Algebra Section provides the basic language required for the Solid Mechanics section, plus some fundamental decomposition of matrix (second order tensor) using the language of tensor.
+### The Tensor Algebra Section provides the basic language required for the Solid Mechanics section, plus some fundamental decomposition of matrix (second order tensor) using the language of tensor.
 
 ### Your feedback is invaluable, please feel free to contact me on Linkedin for any suggestions and comments.
 
