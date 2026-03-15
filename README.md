@@ -39,7 +39,7 @@ https://www.linkedin.com/in/chengyou-yue-832816263/
 
 4.4  Partition of Regions
 
-4.4  Castigliano's Theorem (Pending)
+4.4  Castigliano's Theorem
 
 4.5  Direct Stiffness Method & Exact Nodal Solution (Pending)
 
